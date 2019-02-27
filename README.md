@@ -1,7 +1,7 @@
 # lynx
 ![alt text](https://github.com/reigncraving/lynx/blob/master/Lynx/Resources/Lynx-logo.jpg)
 
-**Lynx** is a project of mine for creating GUI experience. It is completely done in **C#** and Visual Studio (except for the logo).
+**Lynx** is a project of mine for creating GUI experience. It is completely done in **C#** and **Visual Studio** (except for the logo).
 
 If you are interested in the magic behind it, you can review the code for the main form **[here](https://github.com/reigncraving/lynx/blob/master/Lynx/LynxForm.cs)**, or run it from **lynx.exe** in *Lynx/bin/Release/*
 
@@ -23,11 +23,11 @@ There is also a basic **undo** and **redo** option:
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc3.jpg)
 
-You can lock and unloct the **toolbar** and move it above or to the right side of the program window.
+You can lock ar unlock the **toolbar** and move it above or to the right side of the program window.
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc4.jpg)
 
-By clicking on the color wheel with the **left** mouse button and move the cursor around, you can quickly choose color from the wheel, and even faster by clicking the **right** mouse button you can select color for the background (second) main color in the very sam fashion.
+By clicking on the color wheel with the **left mouse button** and move the cursor around, you can quickly choose color from the wheel, and even faster by clicking the **right mouse button** you can select color for the background (second main) color in the very same fashion.
 
 Alternatively you can slide the **RGB** bars, or manually input the value in the color boxes. The radio buttons enables the current main color.
 
@@ -41,9 +41,9 @@ You can write **text**, create different **shapes** and **lines**. Every selecte
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc7.jpg)
 
-**the color pick** is used to "spin" the wheel and bars, as draging the mouse for the desired color.
+**the color pick** is used to "spin" the wheel and bars in the search for the desired color.
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc8.jpg)
 
-
+## Plovdiv 2017
 
