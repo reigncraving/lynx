@@ -23,7 +23,7 @@ There is also a basic **undo** and **redo** option:
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc3.jpg)
 
-You can lock ar unlock the **toolbar** and move it above or to the right side of the program window.
+You can lock or unlock the **toolbar** and move it above or to the right side of the program window.
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc4.jpg)
 
