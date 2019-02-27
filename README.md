@@ -9,3 +9,5 @@ If you are interested in the magic behind it, you can review the code for the ma
 
 In few words, this is a simple graphic editor based to MS Paint, with few additional functionalities.
 
+![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc1.jpg)
+
