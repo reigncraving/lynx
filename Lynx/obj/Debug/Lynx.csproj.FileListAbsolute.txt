@@ -1,0 +1,11 @@
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\bin\Debug\Lynx.exe.config
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\bin\Debug\Lynx.exe
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\bin\Debug\Lynx.pdb
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.csprojResolveAssemblyReference.cache
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.LynxForm.resources
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.Properties.Resources.resources
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.csproj.GenerateResource.Cache
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.exe
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.pdb
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.NewFileForm.resources
+E:\PROJECTS\Visual Studio\UNI\GUI\Lynx\Lynx\obj\Debug\Lynx.AboutLynx.resources
