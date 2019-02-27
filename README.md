@@ -3,7 +3,7 @@
 
 
 
-graphic editor
+**Lynx** is a project of mine for an university project, for creating GUI experience.
 
 
 
