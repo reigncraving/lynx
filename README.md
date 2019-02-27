@@ -1,4 +1,3 @@
-# lynx
 ![alt text](https://github.com/reigncraving/lynx/blob/master/Lynx/Resources/Lynx-logo.jpg)
 
 **Lynx** is a project of mine for creating GUI experience. It is completely done in **C#** and **Visual Studio** (except for the logo).
@@ -37,7 +36,7 @@ Alternatively you can slide the **RGB** bars, or manually input the value in the
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc6.jpg)
 
-You can write **text**, create different **shapes** and **lines**. Every selected tool displays different control options. For some where are **border size**, as well as **fill color** and **height** and **width**;
+You can write **text**, create different **shapes** and **lines**. Every selected tool displays different control options. For some there are **border size**, as well as **fill color**,**height** and **width**;
 
 ![alt text](https://raw.githubusercontent.com/reigncraving/lynx/master/Lynx/Resources/sc/sc7.jpg)
 
